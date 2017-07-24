@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "warm-calculus-158318",
+  "private_key_id": "a109a5ad7179447037aad251b294e437d94d6984",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDAuvIjiSBIf97g\n9e73//fLSB4K6OMfTLhjKPW/B/QFrNA1pjxhSEGS5zGvz6WYb2dRcoLckXJZ4Lz6\nU58NcrqOxKtsjoeI2cBhT+WzFJXhISjKdZOxhP4s1TvUiKrsL48be+5WtGfwoVID\nbJ/VmWF/79dbnrUPN/UQq0eu24FL19e1VxZWZJtumrGL3AJHsE+RHEMp+63Yy7X4\nh/ZGJXv9P0frkdPCa3jxF66NfhChSIVzkTYa7wPRUBkj8yQ9AFEveewOb1naykM2\n76kMPUVDa0In+Bi/65+yH0w6Of9RXiu6gi3/ZBKkLBSH5YXcW/KpXKjy1bcxabtH\nYamzNFNtAgMBAAECggEBAKN+8+LJdSWLtFtKxoqEDoXYjAPdRK9Mui8ElFSWPqCB\n1a9tclNkpJwmnLP0hxolh5REfFb42/T6/dWuEoOqDDEJDhNtZfTmJJlo2gdtMyhk\npOH7lGtH0wfdbIAD4Fu0jMZX//x11qb/cz+MapsdHuUVZbBHlnlukuqtIoZnl+vp\nmV2B+F9WUGq96z6Qio6G1+R4vC8UShpj83tpzYta9hs7RtkFZh5NKbEvfVuoJtsK\nS8lEr9NRaiQ8xp8dpQCQTudeyFS4tMXVFnJrA8cuandFvzjr5Mi8NKdD7ABag/U8\ncx7h6JbkJquot26lfplKzS0f1iIQQDAbYhnUBB5MuNECgYEA7RHY/LtQoA0fRfem\n5z3k3BF07SCxwnokNJu3DUG9gW6S47f18W5Wn+F+P1FidgQ2jTCMFQVZ8vMNoluZ\njMSqqExE6uZP3z7KPbvGnuyGvI4yq6xpiVglbzZykOZ2Hs6UNzVtLM/O8rUaItRd\nR2sEAndZgtiXAjfEwHEFVEYcLaMCgYEA0B63TKysgefC5MVi1XUFdWYfYqwbXsSv\nERX0LWskiqLHtwwLblkTgNyl6R1SyvwH+VBMM5hPziYBSS2+OvYzg5wagGUHSdf7\nGjRMGTLW/5eVpT34G/khD3FNaz3tckIjQ+g0x3VUj3WVebm8KQJUBav5vYgLrVRu\ngYItj1eKa68CgYAgAoXq8hvb0InFd7/4fzn0oQLJtd1qpfVXiSL5TkQZQuXgi4lQ\n1RYrNlZGlGWYC8+V1tVDTVqs3DaeEoI0KKXmXY38raZhPWgvV7hk4wj6UrTyyy/g\n1J8RWiez+vo+BKSso7EfGNwXl250/3ms1/1Nm/HhIf+Z1A/j8B7JF0JcwwKBgQC6\nOjIE/yIh39OqR+HHZb4rreT5s02OgGqy3DUxiwUYtM4GwlVcOYLVNRuUu/OAxQMR\nmUOGi40lxyYxaCgntHSmGMIyD7T047nCWfeaOL7f2LFEOm5QAZ4OpnEDPFfDfOD3\ne8n2jMvMzweg840mGPo8VQXVDe58++ciJe1Era2j6wKBgQCgr77UwsqsmtehjJTY\n4v4KZ8zBqQvTymxR7SFukb0D8KxEviCO7Te55lgCZvb6fovsJM1pXbrnO9a4WVH+\nZV56rR4mCT61v8/hrjs1ltkPXz9pBUTeKkKWV1rSEDDVqtfq9OKvNdHywK3ESl33\n4QKvzndbqf4JhV0onywINECLhQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "crm-tool@warm-calculus-158318.iam.gserviceaccount.com",
+  "client_id": "100538350867837066511",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/crm-tool%40warm-calculus-158318.iam.gserviceaccount.com"
+}
